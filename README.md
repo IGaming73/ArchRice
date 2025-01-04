@@ -2,7 +2,7 @@
 
 My dotfiles for ArchLinux ricing with the Hyprland WM
 
-[insert image here]
+![Rice Showcase](https://cloud-g3lb4efvp-hack-club-bot.vercel.app/0terminals.png)
 
 ### Dependencies
 
