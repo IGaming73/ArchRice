@@ -1,10 +1,10 @@
 # ArchRice
 
-My dotfiles for ArchLinux ricing with Hyprland
+My dotfiles for ArchLinux ricing with the Hyprland WM
 
-based on [this config](https://github.com/typecraft-dev/dotfiles/tree/master).
+[insert image here]
 
-### Dependencies:
+### Dependencies
 
 - hyprland
 - hyprpaper
@@ -13,3 +13,10 @@ based on [this config](https://github.com/typecraft-dev/dotfiles/tree/master).
 - swaync
 - waybar
 - cascadia code nerd font
+
+### Ressources
+
+Here are some repos with dotfiles I took and modified
+
+- [typecraft-dev/dotfiles](https://github.com/typecraft-dev/dotfiles/tree/master) (global)
+- [xerolinux/xero-layan-git](https://github.com/xerolinux/xero-layan-git) (fastfetch)
