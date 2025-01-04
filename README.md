@@ -13,6 +13,9 @@ My dotfiles for ArchLinux ricing with the Hyprland WM
 - swaync
 - waybar
 - cascadia code nerd font
+- (firefox)
+- (nemo)
+- (cliphist)
 
 ### Ressources
 
