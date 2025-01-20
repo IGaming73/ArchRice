@@ -12,6 +12,7 @@ My dotfiles for ArchLinux ricing with the Hyprland WM
 - starship
 - swaync
 - waybar
+- pavucontrol
 - cascadia code nerd font
 - (firefox)
 - (nemo)
